@@ -114,5 +114,5 @@ TABLEAU_CLUSTERING_&_FORECASTING_PROJECT/
 **Shubham Gupta**
 [Tableau Public Profile](https://public.tableau.com/app/profile/shubham.gupta2025),
 [LinkedIn](https://www.linkedin.com/in/theshubhamguptaa/),
-[Gmail](gshubham7557@gmail.com)
+Gmail - gshubham7557@gmail.com
 
