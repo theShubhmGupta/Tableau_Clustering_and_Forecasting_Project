@@ -14,7 +14,7 @@ An interactive sales analytics dashboard built on the **Sample Superstore datase
 
 ## 📸 Dashboard Preview
 
-[Tableau_Clustering_&_Forecasting Dashboard](tableau/dashboard.png)
+![Tableau_Clustering_&_Forecasting Dashboard](tableau/dashboard.png)
 
 ---
 
